@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6435bd39-ad83-435e-a308-ce78b7f02780" name="www" url="http://soslillesiteweb.oo:8080/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="09b30d7e-b089-4bb7-a02b-a522ac14a4db" name="jamzserveur" url="http://soslillesiteweb.oo:8080/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
